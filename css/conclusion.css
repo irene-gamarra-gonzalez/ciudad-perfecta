@@ -1,0 +1,25 @@
+body{background-image: url("../img/papel.JPG");}
+.container {
+    background-color: #BFC3C4;
+    width: 1000px;
+}
+
+
+.menu{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-bottom: 5%;
+
+}
+
+
+.fondo {
+    background-image: url("../img/purpurina.jpg");
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#intro{
+    font-size: 22px;
+    color:#000000;
+    margin-top: 7%;
+}

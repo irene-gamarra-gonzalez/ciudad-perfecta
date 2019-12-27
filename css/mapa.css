@@ -1,0 +1,42 @@
+
+body{background-image: url("../img/papel.JPG");}
+.menu{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-bottom: 5%;
+
+}
+#titulo{
+    width: 500px !important;
+ 
+    margin-left: 25%;
+    
+
+}
+
+
+.fondo {
+    background-image: url("../img/purpurina.jpg");
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#intro{
+    margin-top: 7%;
+    font-size: 22px;
+    margin-bottom: 10%;
+    color: #000000;
+}
+
+#mapa{
+    width: 600px;
+    margin-bottom: 10%;
+    
+}
+
+
+.container {
+    background-color: #BFC3C4;
+    width: 1000px;
+}
+
+
